@@ -61,3 +61,8 @@ Zadanie 1
         app:layout_constraintTop_toBottomOf="@+id/button" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
+
+Zadanie 2
+<img width="1798" height="915" alt="image" src="https://github.com/user-attachments/assets/3f9a1239-b29e-4a81-ae4a-ed2cc536108b" />
+
+
